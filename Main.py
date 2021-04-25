@@ -12,7 +12,7 @@ today=day+"-"+month+"-"+year
 ##initialising device
 device = {
     'device_type': 'cisco_ios',
-    'ip': '192.168.43.10',
+    'ip': '',
     'username': 'username',
     'password': 'password',
     'secret':'password'
